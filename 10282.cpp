@@ -19,7 +19,7 @@ int main()
         it=mp.find(s1);
         if (it==mp.end())
         {
-            cout<<"ch"<<endl;
+            cout<<"eh"<<endl;
         }
         else
         {
